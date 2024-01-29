@@ -8,7 +8,6 @@ This project predicts future trends in the job market by analyzing data collecte
 
 - [Usage](#usage)
 - [Data Collection](#data-collection)
-- [Data Processing](#data-processing)
 - [Model Training](#model-training)
 - [Results](#results)
 
@@ -18,3 +17,5 @@ This project helps people figure out the important skills they'll need for futur
 
 ## Data Collection
 The data utilized in this project was scraped from Naukri.com. We gathered information for 20 jobs, including roles such as "Cloud Solutions Architect," "Software Architect," "Network Architect," and "Software Applications Architect." Through this data collection, we analyzed the prevalent trends in the top skills associated with these job types.
+
+## Model Training
