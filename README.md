@@ -1,4 +1,4 @@
-# data-analysis-and-data-acquisition
+# Prognosis 
 data analysis and data creating through scraping
 it is an application that scrapes data and  cleans it after doing that it does a lot of data analysis using -
 1-matplotlib
